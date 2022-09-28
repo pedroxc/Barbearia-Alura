@@ -76,6 +76,15 @@ nav li{
   font-size: 13px;
   margin-top:20px;
  }
+ .copyright{
+  color:#ffffff;
+  font-size: 13px;
+  margin-top:20px;
+ }
+ .copyright a {
+  display: inline;
+  color:#ffff;
+ }
 
  main{
   width:940px;
